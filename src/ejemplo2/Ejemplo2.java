@@ -14,6 +14,8 @@ public class Ejemplo2 {
         resultado = ++valor;
         System.out.println(resultado);
         
+        //Esto es un comentario para el desarrollador
+        
     }
     
 }
