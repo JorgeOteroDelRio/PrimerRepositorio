@@ -15,6 +15,7 @@ public class Ejemplo2 {
         System.out.println(resultado);
         
         //Esto es un comentario para el desarrollador
+        //Comentario hecho desde GitHub
         
     }
     
